@@ -1,0 +1,6 @@
+polars
+numpy
+lightgbm
+scikit-learn
+tqdm
+joblib
